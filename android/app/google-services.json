@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504501059324",
+    "firebase_url": "https://eemcs-b82de-default-rtdb.firebaseio.com",
+    "project_id": "eemcs-b82de",
+    "storage_bucket": "eemcs-b82de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504501059324:android:f144debc5c5091a9296179",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504501059324-rk3vpl16ikfeevqrpkuep77nu9u0u0t1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl4nrdUM_zbpmvzUL3wzBdLLNCzVV-IBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504501059324-k80vqfdk22m8n77h3tv89gt001dketup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
